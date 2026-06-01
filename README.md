@@ -10,29 +10,19 @@
 
 ## 🧑‍💻 About Me
 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+  <p>
+    🚀 Data Analytics aspirant with hands-on experience in Python, SQL, machine learning, and business intelligence
+tools. <br>
+    🛠 Skilled in translating complex datasets into actionable business insights using Tableau and Excel.
+Complemented by real-world exposure to AR/ VR development and entrepreneurship through industry
+internships and a structured venture training program.<br>
+    🎓 Currently pursuing a B.Tech in Information Technology @ <b>Sathyabama University</b> (CGPA: 7.30)<br>
+    ✨  Eager to contribute analytical depth and cross-functional
+collaboration to a data-driven organization
+  </p>
 </div>
-
-<br/>
-
-```python
-class HarshKumar:
-    def __init__(self):
-        self.name      = "Harsh Kumar S"
-        self.location  = "Chennai, India 🇮🇳"
-        self.degree    = "B.Tech IT @ Sathyabama (2026)"
-        self.email     = "harshvetrivel@gmail.com"
-        self.stack     = ["Python", "SQL", "Tableau", "Excel", "Unity (C#)", "ML"]
-        self.learning  = ["Advanced ML Algorithms", "Power BI & Data Storytelling", "Deep Learning (PyTorch)"]
-        self.fun_fact  = "Built VR Meditation before meditating IRL 🧘"
-
-    def motto(self):
-        return "Turn raw data into real decisions. 📊➡️🚀"
-
-me = HarshKumar()
-print(me.motto())
-```
 
 
 ---
