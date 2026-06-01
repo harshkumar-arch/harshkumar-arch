@@ -9,6 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
+
 <table>
 <tr>
 <td valign="top" width="55%">
@@ -44,7 +45,6 @@ print(me.motto())
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
