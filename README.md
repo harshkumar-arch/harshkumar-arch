@@ -10,40 +10,32 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
-<pre lang="python">
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
 class HarshKumar:
     def __init__(self):
-        self.name      = "Harsh Kumar S"
-        self.location  = "Chennai, India 🇮🇳"
-        self.degree    = "B.Tech IT @ Sathyabama (2026)"
-        self.email     = "harshvetrivel@gmail.com"
-        self.stack     = [
-            "Python", "SQL", "Tableau",
-            "Excel", "Unity (C#)", "ML"
-        ]
-        self.learning  = [
+        self.name           = "Harsh Kumar S"
+        self.location       = "Chennai, India 🇮🇳"
+        self.degree         = "B.Tech IT @ Sathyabama Institute (2026)"
+        self.email          = "harshvetrivel@gmail.com"
+        self.stack          = ["Python", "SQL", "Tableau",
+                               "Excel", "Unity (C#)", "Machine Learning"]
+        self.currently_learning = [
             "Advanced ML Algorithms",
             "Power BI & Data Storytelling",
             "Deep Learning (PyTorch)"
         ]
-        self.fun_fact  = "Built VR Meditation before meditating IRL 🧘"
+        self.fun_fact       = "I built a VR Meditation app before meditating IRL 🧘"
 
     def motto(self):
         return "Turn raw data into real decisions. 📊➡️🚀"
 
 me = HarshKumar()
 print(me.motto())
-</pre>
-</td>
-<td valign="top" align="center" width="45%">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-</td>
-</tr>
-</table>
+```
 
+<br clear="right"/>
 
 ---
 
@@ -75,7 +67,42 @@ print(me.motto())
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <a href="https://github.com/harshvetrivel">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshvetrivel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/harshvetrivel">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvetrivel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  </a>
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshvetrivel&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvetrivel&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshvetrivel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
+
+---
 
 ## 💼 Work Experience
 
@@ -164,7 +191,7 @@ print(me.motto())
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-harshvetrivel%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshvetrivel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-harshkumar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshvetrivel)
+[![GitHub](https://img.shields.io/badge/GitHub-harshvetrivel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshvetrivel)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshvetrivel&color=70a5fd&style=flat-square&label=Profile+Views)
