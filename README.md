@@ -13,8 +13,7 @@
 <table>
 <tr>
 <td valign="top" width="55%">
-
-```python
+<pre lang="python">
 class HarshKumar:
     def __init__(self):
         self.name      = "Harsh Kumar S"
@@ -37,14 +36,14 @@ class HarshKumar:
 
 me = HarshKumar()
 print(me.motto())
-```
-
+</pre>
 </td>
 <td valign="top" align="center" width="45%">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 </td>
 </tr>
 </table>
+
 
 ---
 
