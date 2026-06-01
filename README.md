@@ -45,6 +45,7 @@ print(me.motto())
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Tech Stack
