@@ -10,23 +10,22 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+</div>
+
+<br/>
 
 ```python
 class HarshKumar:
     def __init__(self):
-        self.name           = "Harsh Kumar S"
-        self.location       = "Chennai, India 🇮🇳"
-        self.degree         = "B.Tech IT @ Sathyabama Institute (2026)"
-        self.email          = "harshvetrivel@gmail.com"
-        self.stack          = ["Python", "SQL", "Tableau",
-                               "Excel", "Unity (C#)", "Machine Learning"]
-        self.currently_learning = [
-            "Advanced ML Algorithms",
-            "Power BI & Data Storytelling",
-            "Deep Learning (PyTorch)"
-        ]
-        self.fun_fact       = "I built a VR Meditation app before meditating IRL 🧘"
+        self.name      = "Harsh Kumar S"
+        self.location  = "Chennai, India 🇮🇳"
+        self.degree    = "B.Tech IT @ Sathyabama (2026)"
+        self.email     = "harshvetrivel@gmail.com"
+        self.stack     = ["Python", "SQL", "Tableau", "Excel", "Unity (C#)", "ML"]
+        self.learning  = ["Advanced ML Algorithms", "Power BI & Data Storytelling", "Deep Learning (PyTorch)"]
+        self.fun_fact  = "Built VR Meditation before meditating IRL 🧘"
 
     def motto(self):
         return "Turn raw data into real decisions. 📊➡️🚀"
@@ -35,7 +34,6 @@ me = HarshKumar()
 print(me.motto())
 ```
 
-<br clear="right"/>
 
 ---
 
