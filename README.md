@@ -143,7 +143,7 @@ collaboration to a data-driven organization
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-harshvetrivel%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshvetrivel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-harshvetrivel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshvetrivel)
+[![GitHub](https://img.shields.io/badge/GitHub-harshkumar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshvetrivel)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshvetrivel&color=70a5fd&style=flat-square&label=Profile+Views)
